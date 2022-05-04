@@ -9,13 +9,8 @@
     border-top: 1px solid #ddd;
     border-radius: 9px 9px 0 0;
 }
-
-.thead:first-child {
-    min-width: 180px;
-}
-
 .thead:nth-child(2) {
-    width: 120px;
+    width: 12px;
 }
 .thead:nth-child(2):hover{
     background: rgb(255, 255, 255);
